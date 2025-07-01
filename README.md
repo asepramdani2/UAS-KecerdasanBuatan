@@ -3,7 +3,7 @@
 
 Proyek ini mengimplementasikan algoritma K-Nearest Neighbor (K-NN) yang dikombinasikan dengan seleksi fitur Binary Particle Swarm Optimization (BPSO) untuk klasifikasi kanker payudara. Dengan BPSO, fitur yang digunakan dapat direduksi dari 30 menjadi 5 fitur tanpa menurunkan akurasi, bahkan meningkatkan akurasi menjadi 95,32%, sehingga model lebih efisien dan akurat.
 
-Dataset: Breast Cancer Wisconsin Diagnostic (UCI)
+Dataset: Breast Cancer 
 
 # Tujuan Proyek
 
